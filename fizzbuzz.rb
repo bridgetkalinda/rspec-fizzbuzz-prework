@@ -15,7 +15,7 @@
 # fizzbuzz(3)
 # fizzbuzz(5)
 
-def fizz_buzz(num)
+def fizzbuzz(num)
   if num % 3 == 0 && num % 5 == 0
     "fizzbuzz"
   elsif num % 3 == 0
