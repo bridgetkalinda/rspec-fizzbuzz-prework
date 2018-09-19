@@ -7,7 +7,7 @@ def fizzbuzz(int)
    end
   if int % 3 == 0
      "Fizz"
-   end 
+   end
   else
     puts ""
 end
